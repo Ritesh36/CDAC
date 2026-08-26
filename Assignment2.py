@@ -163,7 +163,6 @@ print(simple_interest(p, r, t))
 # n - Number of times interest compounds in a year
 # t - Number of years
 
-
 p = float(input("Enter the principal amount: "))
 r = float(input("Enter the rate of interest: "))
 n = int(input("Enter the number of times interest compounds in a year: "))
